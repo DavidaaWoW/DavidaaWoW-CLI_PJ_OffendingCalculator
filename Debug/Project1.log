@@ -1,0 +1,21 @@
+﻿  Events.cpp
+C:\Users\User\source\repos\Project1\Events.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\Project1\Events.cpp(103,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(126,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(142,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(167,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(175,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(100,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\Project1\Events.cpp(226,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(224,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\Project1\Events.cpp(256,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(254,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\Project1\Events.cpp(293,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\source\repos\Project1\Events.cpp(387,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\Project1\Events.cpp(386,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.cpp
+  Variable.cpp
+  Создание кода...
+C:\Users\User\source\repos\Project1\Events.cpp(84): warning C4715: Project1::MyForm::rand1: значение возвращается не при всех путях выполнения
+  Events.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> C:\Users\User\source\repos\Project1\Debug\Project1.exe

@@ -1,0 +1,95 @@
+  Project1.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project1, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project1.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Button button1 : Public
+    System.Windows.Forms.Button button2 : Public
+    System.Windows.Forms.Button button3 : Public
+    System.Windows.Forms.Button button4 : Public
+    System.Windows.Forms.Button button5 : Public
+    System.Windows.Forms.Button button6 : Public
+    System.Windows.Forms.Button button7 : Public
+    System.Windows.Forms.Button button8 : Public
+    System.Windows.Forms.Button button9 : Public
+    System.Windows.Forms.Button button10 : Public
+    System.Windows.Forms.Button button11 : Public
+    System.Windows.Forms.Button button12 : Public
+    System.Windows.Forms.Button button13 : Public
+    System.Windows.Forms.Button button14 : Public
+    System.Windows.Forms.Button button15 : Public
+    System.Windows.Forms.Button button16 : Public
+    System.Windows.Forms.Button button17 : Public
+    System.Windows.Forms.Button button18 : Public
+    System.Windows.Forms.Button button19 : Public
+    System.Windows.Forms.Button button20 : Public
+    System.Windows.Forms.Button button21 : Public
+    System.Windows.Forms.Button button22 : Public
+    System.Windows.Forms.Button button23 : Public
+    System.Windows.Forms.Button button24 : Public
+    System.Windows.Forms.Label label1 : Public
+    System.Windows.Forms.ListBox История : Public
+    Boolean check : Public
+    Boolean check1 : Public
+    Boolean check2 : Public
+    SByte sym_gl IsSignUnspecifiedByte : Public
+    System.String last : Public
+    System.String fin : Public
+    System.String list1 : Public
+    System.String list2 : Public
+    System.String temp1 : Public
+    System.String temp2 : Public
+    System.String temp3 : Public
+  Methods:
+    list(String): PrivateScope, Public, HideBySig
+    ret(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, SByte IsSignUnspecifiedByte): PrivateScope, Public, HideBySig
+    conv(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, String): PrivateScope, Public, HideBySig
+    perc(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    equals(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    pow(Double): PrivateScope, Public, HideBySig
+    oneon(Double): PrivateScope, Public, HideBySig
+    sqrtf(Double): PrivateScope, Public, HideBySig
+    ret1(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+    ret2(String): PrivateScope, Public, HideBySig
+    rand1(): PrivateScope, Public, HideBySig
+    button8_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button4_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button2_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button7_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button6_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button12_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button11_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button10_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button16_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button15_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button14_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button22_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button23_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button21_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button1_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button5_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button9_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button13_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button17_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button3_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button19_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button20_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button18_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    button24_Click(Object, EventArgs): PrivateScope, Public, HideBySig
+    lboxclicked(Object, EventArgs): PrivateScope, Public, HideBySig
+    button25_Click(Object, EventArgs): PrivateScope, Public, HideBySig
